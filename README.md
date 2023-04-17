@@ -1,2 +1,2 @@
-# Logica
+# Functions C#
  Training
