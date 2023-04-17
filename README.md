@@ -1,2 +1,2 @@
-# Functions C#
- Training
+# Training C#
+ Exe - Funtions
